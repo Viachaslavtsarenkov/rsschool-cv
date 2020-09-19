@@ -1,0 +1,35 @@
+* {
+    background-color: #ADFF2F;
+   /* margin: 0px;*/
+    
+}
+h1 {
+
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    background-color: #FFEFD5;
+    width: 300px;
+    border-radius: 25px;
+}
+p {
+    padding-left: 25px;
+}
+
+
+section {
+    float: left;
+    width: 340px;
+    height: 150px;
+    margin: 25px 25px 25px 25px;
+
+}
+
+img {
+    display: block;
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 75px;
+}
