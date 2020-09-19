@@ -1,7 +1,5 @@
 * {
-    background-color: #ADFF2F;
-   /* margin: 0px;*/
-    
+    font-family: 'Roboto Condensed',sans-serif;
 }
 h1 {
 
@@ -9,9 +7,7 @@ h1 {
 }
 h2 {
     text-align: center;
-    background-color: #FFEFD5;
-    width: 300px;
-    border-radius: 25px;
+    color: #444444;
 }
 p {
     padding-left: 25px;
@@ -19,9 +15,11 @@ p {
 
 
 section {
+    background: #f9f9f9;
+    border: 1px solid #eaeaea;
     float: left;
-    width: 340px;
-    height: 150px;
+    width: 350px;
+    height: 200px;
     margin: 25px 25px 25px 25px;
 
 }
@@ -29,7 +27,7 @@ section {
 img {
     display: block;
     float: left;
-    width: 200px;
-    height: 200px;
+    width: 165px;
+    height: 220px;
     margin-left: 75px;
 }
